@@ -1,0 +1,97 @@
+order_id,date,product_name,category,region,units_sold,unit_price,revenue,cost,margin_pct,customer_id,status
+1001,2024-01-03,ProX Monitor 27",Electronics,North,120,350,42000,24360,42,C001,Completed
+1002,2024-01-05,Urban Jacket Pro,Apparel,South,310,85,26350,11858,55,C002,Completed
+1003,2024-01-07,Organic Blend Pack,Food & Bev,East,520,25,13000,8060,38,C003,Completed
+1004,2024-01-10,SmartHub 4K,Electronics,West,95,420,39900,25935,35,C004,Completed
+1005,2024-01-12,Trail Runner X2,Sports,North,210,130,27300,14196,48,C005,Completed
+1006,2024-01-15,Artisan Coffee Kit,Food & Bev,South,380,28,10640,4043,62,C006,Completed
+1007,2024-01-18,Luxe Home Diffuser,Home Goods,East,160,95,15200,6384,58,C007,Completed
+1008,2024-01-20,PixelCam Mini,Electronics,West,75,480,36000,25560,29,C008,Completed
+1009,2024-02-02,ProX Monitor 27",Electronics,South,105,350,36750,21315,42,C009,Completed
+1010,2024-02-04,Urban Jacket Pro,Apparel,North,290,85,24650,11093,55,C010,Completed
+1011,2024-02-06,Organic Blend Pack,Food & Bev,West,480,25,12000,7440,38,C011,Completed
+1012,2024-02-09,SmartHub 4K,Electronics,Central,88,420,36960,24024,35,C012,Completed
+1013,2024-02-11,Trail Runner X2,Sports,South,195,130,25350,13182,48,C013,Completed
+1014,2024-02-14,Artisan Coffee Kit,Food & Bev,East,350,28,9800,3724,62,C014,Completed
+1015,2024-02-17,Luxe Home Diffuser,Home Goods,West,145,95,13775,5786,58,C015,Completed
+1016,2024-02-19,PixelCam Mini,Electronics,North,68,480,32640,23174,29,C016,Completed
+1017,2024-03-01,ProX Monitor 27",Electronics,East,175,350,61250,35525,42,C017,Completed
+1018,2024-03-03,Urban Jacket Pro,Apparel,West,420,85,35700,16065,55,C018,Completed
+1019,2024-03-05,Organic Blend Pack,Food & Bev,North,680,25,17000,10540,38,C019,Completed
+1020,2024-03-08,SmartHub 4K,Electronics,South,132,420,55440,36036,35,C020,Completed
+1021,2024-03-10,Trail Runner X2,Sports,East,280,130,36400,18928,48,C021,Completed
+1022,2024-03-13,Artisan Coffee Kit,Food & Bev,West,460,28,12880,4894,62,C022,Completed
+1023,2024-03-16,Luxe Home Diffuser,Home Goods,North,195,95,18525,7781,58,C023,Completed
+1024,2024-03-19,PixelCam Mini,Electronics,South,95,480,45600,32376,29,C024,Completed
+1025,2024-04-02,ProX Monitor 27",Electronics,West,155,350,54250,31465,42,C025,Completed
+1026,2024-04-04,Urban Jacket Pro,Apparel,Central,385,85,32725,14726,55,C026,Completed
+1027,2024-04-07,Organic Blend Pack,Food & Bev,South,610,25,15250,9455,38,C027,Completed
+1028,2024-04-09,SmartHub 4K,Electronics,North,118,420,49560,32214,35,C028,Completed
+1029,2024-04-11,Trail Runner X2,Sports,West,255,130,33150,17238,48,C029,Completed
+1030,2024-04-14,Artisan Coffee Kit,Food & Bev,North,415,28,11620,4416,62,C030,Completed
+1031,2024-04-17,Luxe Home Diffuser,Home Goods,South,175,95,16625,6983,58,C031,Completed
+1032,2024-04-20,PixelCam Mini,Electronics,East,82,480,39360,27946,29,C032,Completed
+1033,2024-05-01,ProX Monitor 27",Electronics,North,210,350,73500,42630,42,C033,Completed
+1034,2024-05-03,Urban Jacket Pro,Apparel,East,495,85,42075,18934,55,C034,Completed
+1035,2024-05-06,Organic Blend Pack,Food & Bev,West,740,25,18500,11470,38,C035,Completed
+1036,2024-05-08,SmartHub 4K,Electronics,South,155,420,65100,42315,35,C036,Completed
+1037,2024-05-11,Trail Runner X2,Sports,North,315,130,40950,21294,48,C037,Completed
+1038,2024-05-14,Artisan Coffee Kit,Food & Bev,West,490,28,13720,5214,62,C038,Completed
+1039,2024-05-17,Luxe Home Diffuser,Home Goods,East,215,95,20425,8579,58,C039,Completed
+1040,2024-05-20,PixelCam Mini,Electronics,Central,112,480,53760,38170,29,C040,Completed
+1041,2024-06-02,ProX Monitor 27",Electronics,South,198,350,69300,40194,42,C041,Completed
+1042,2024-06-04,Urban Jacket Pro,Apparel,West,465,85,39525,17786,55,C042,Completed
+1043,2024-06-07,Organic Blend Pack,Food & Bev,North,695,25,17375,10773,38,C043,Completed
+1044,2024-06-09,SmartHub 4K,Electronics,East,142,420,59640,38766,35,C044,Completed
+1045,2024-06-12,Trail Runner X2,Sports,South,298,130,38740,20145,48,C045,Completed
+1046,2024-06-15,Artisan Coffee Kit,Food & Bev,East,452,28,12656,4809,62,C046,Completed
+1047,2024-06-18,Luxe Home Diffuser,Home Goods,West,202,95,19190,8060,58,C047,Completed
+1048,2024-06-21,PixelCam Mini,Electronics,North,98,480,47040,33398,29,C048,Completed
+1049,2024-07-01,ProX Monitor 27",Electronics,East,245,350,85750,49735,42,C049,Completed
+1050,2024-07-03,Urban Jacket Pro,Apparel,North,540,85,45900,20655,55,C050,Completed
+1051,2024-07-06,Organic Blend Pack,Food & Bev,South,810,25,20250,12555,38,C051,Completed
+1052,2024-07-08,SmartHub 4K,Electronics,West,178,420,74760,48594,35,C052,Completed
+1053,2024-07-11,Trail Runner X2,Sports,East,348,130,45240,23525,48,C053,Completed
+1054,2024-07-14,Artisan Coffee Kit,Food & Bev,North,528,28,14784,5618,62,C054,Completed
+1055,2024-07-17,Luxe Home Diffuser,Home Goods,South,238,95,22610,9496,58,C055,Completed
+1056,2024-07-20,PixelCam Mini,Electronics,East,128,480,61440,43622,29,C056,Completed
+1057,2024-08-02,ProX Monitor 27",Electronics,West,228,350,79800,46284,42,C057,Completed
+1058,2024-08-04,Urban Jacket Pro,Apparel,South,510,85,43350,19508,55,C058,Completed
+1059,2024-08-07,Organic Blend Pack,Food & Bev,East,775,25,19375,12013,38,C059,Completed
+1060,2024-08-09,SmartHub 4K,Electronics,North,165,420,69300,45045,35,C060,Completed
+1061,2024-08-12,Trail Runner X2,Sports,West,325,130,42250,21970,48,C061,Completed
+1062,2024-08-15,Artisan Coffee Kit,Food & Bev,South,498,28,13944,5299,62,C062,Completed
+1063,2024-08-18,Luxe Home Diffuser,Home Goods,North,222,95,21090,8858,58,C063,Completed
+1064,2024-08-21,PixelCam Mini,Electronics,West,118,480,56640,40214,29,C064,Completed
+1065,2024-09-01,ProX Monitor 27",Electronics,North,285,350,99750,57855,42,C065,Completed
+1066,2024-09-03,Urban Jacket Pro,Apparel,East,598,85,50830,22874,55,C066,Completed
+1067,2024-09-06,Organic Blend Pack,Food & Bev,West,890,25,22250,13795,38,C067,Completed
+1068,2024-09-08,SmartHub 4K,Electronics,South,202,420,84840,55146,35,C068,Completed
+1069,2024-09-11,Trail Runner X2,Sports,North,388,130,50440,26229,48,C069,Completed
+1070,2024-09-14,Artisan Coffee Kit,Food & Bev,West,568,28,15904,6044,62,C070,Completed
+1071,2024-09-17,Luxe Home Diffuser,Home Goods,East,258,95,24510,10294,58,C071,Completed
+1072,2024-09-20,PixelCam Mini,Electronics,North,145,480,69600,49416,29,C072,Completed
+1073,2024-10-02,ProX Monitor 27",Electronics,South,265,350,92750,53795,42,C073,Completed
+1074,2024-10-04,Urban Jacket Pro,Apparel,West,572,85,48620,21879,55,C074,Completed
+1075,2024-10-07,Organic Blend Pack,Food & Bev,North,852,25,21300,13206,38,C075,Completed
+1076,2024-10-09,SmartHub 4K,Electronics,East,188,420,78960,51324,35,C076,Completed
+1077,2024-10-12,Trail Runner X2,Sports,South,362,130,47060,24471,48,C077,Completed
+1078,2024-10-15,Artisan Coffee Kit,Food & Bev,East,535,28,14980,5692,62,C078,Completed
+1079,2024-10-18,Luxe Home Diffuser,Home Goods,West,242,95,22990,9656,58,C079,Completed
+1080,2024-10-21,PixelCam Mini,Electronics,South,135,480,64800,46008,29,C080,Completed
+1081,2024-11-01,ProX Monitor 27",Electronics,East,318,350,111300,64554,42,C081,Completed
+1082,2024-11-03,Urban Jacket Pro,Apparel,North,648,85,55080,24786,55,C082,Completed
+1083,2024-11-06,Organic Blend Pack,Food & Bev,South,965,25,24125,14958,38,C083,Completed
+1084,2024-11-08,SmartHub 4K,Electronics,West,225,420,94500,61425,35,C084,Completed
+1085,2024-11-11,Trail Runner X2,Sports,East,415,130,53950,28054,48,C085,Completed
+1086,2024-11-14,Artisan Coffee Kit,Food & Bev,North,602,28,16856,6405,62,C086,Completed
+1087,2024-11-17,Luxe Home Diffuser,Home Goods,South,275,95,26125,10973,58,C087,Completed
+1088,2024-11-20,PixelCam Mini,Electronics,East,158,480,75840,53846,29,C088,Completed
+1089,2024-12-02,ProX Monitor 27",Electronics,West,298,350,104300,60494,42,C089,Completed
+1090,2024-12-04,Urban Jacket Pro,Apparel,South,618,85,52530,23639,55,C090,Completed
+1091,2024-12-07,Organic Blend Pack,Food & Bev,East,920,25,23000,14260,38,C091,Completed
+1092,2024-12-09,SmartHub 4K,Electronics,North,212,420,89040,57876,35,C092,Completed
+1093,2024-12-12,Trail Runner X2,Sports,West,392,130,50960,26499,48,C093,Completed
+1094,2024-12-15,Artisan Coffee Kit,Food & Bev,South,572,28,16016,6086,62,C094,Completed
+1095,2024-12-18,Luxe Home Diffuser,Home Goods,North,260,95,24700,10374,58,C095,Completed
+1096,2024-12-21,PixelCam Mini,Electronics,West,148,480,71040,50438,29,C096,Completed
